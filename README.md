@@ -3,12 +3,12 @@
 Provides a simple [InterceptorAsync](AsyncInterceptor/InterceptorAsync.cs) base
 class to facilate asynchronous interception with [Castle DynamicProxy](http://www.castleproject.org/projects/dynamicproxy/).
 
-# Motivation
+## Motivation
 
 Provide a simple solution to asynchronous interception that is similar to
 the `IInterceptor.cs` interface.
 
-# Usage
+## Usage
 
 ```csharp
 // calling code:
