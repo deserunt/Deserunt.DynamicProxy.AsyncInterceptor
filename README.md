@@ -37,4 +37,7 @@ public class TaskResultInterceptor : InterceptorAsync
 }
 ```
 
-# 
+## Influenced By:
+
+* [Castle.Core.AsyncInterceptor](https://github.com/JSkimming/Castle.Core.AsyncInterceptor)
+* [stakx/DynamicProxy.AsyncInterceptor](https://github.com/stakx/DynamicProxy.AsyncInterceptor)
