@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Deserunt.DynamicProxy</RootNamespace>
+    <AssemblyName>Deserunt.DynamicProxy</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Castle.Core" Version="4.4.1" />
+  </ItemGroup>
+
+</Project>
